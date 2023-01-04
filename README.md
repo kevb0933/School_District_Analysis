@@ -1,9 +1,11 @@
 # School_District_Analysis
 
-Background
+# Background
+
 Maria has gotten a new version of the student data with several changes. This includes an additional column: "school budget". She wants you to rework part of your analysis by using the new dataset.
 
-What You're Creating
+# What You're Creating
+
 This new assignment consists of five technical analysis deliverables and a written report to deliver the results. You will submit the following deliverables:
 
 Deliverable 1: Collect the student data into a DataFrame.
